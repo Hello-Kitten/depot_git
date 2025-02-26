@@ -1,0 +1,5 @@
+1 : Git sert à versionner publier et récupérer. Github stocke ce qu'on lui envoie avec GIT.
+2 : une sorte de répertoire contenant le contenu et les versions de son contenu.
+3 : commit : création de la version (pour envoi) | push : envoi version et code pour fusion | pull : récupération du fichier de versions et du code
+4 : il sert (en général) à expliquer le projet et à afficher les notes de versions
+5 : git pull [<options>] [<dépôt> [<spécification-de-référence>…​]]
